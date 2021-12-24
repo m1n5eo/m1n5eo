@@ -1,5 +1,5 @@
 # Kim Min Seo (m1n5eo)
-👋 H3llo, there! I'm **Minseo Kim**, I hope to **Disaster robotics engineer.**<br>
+👋 H3llo, there! I'm **Minseo Kim**, I hope to **Robotics engineer.**<br>
 And I go to **Korea Digital Media High School.**<br><br>
 ![m1n5eo's github stats](https://github-readme-stats.vercel.app/api?username=m1n5eo&theme=darcula&show_icons=true)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skjd1234)](https://solved.ac/skjd1234/)
