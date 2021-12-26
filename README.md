@@ -5,11 +5,6 @@ And I go to **Korea Digital Media High School.**<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skjd1234)](https://solved.ac/skjd1234/)
 [![m1n5eo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m1n5eo&theme=default&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/m1n5eo)
 
-## Archiving & Contact me
-- GitHub : https://github.com/m1n5eo
-- Tistory : https://m1n5eo.tistory.com/
-- Instagram : https://www.instagram.com/m1n5eo/
-
 ## School
 - 천안서당초등학교 졸업 (2012.03. ~ 2018.02.)
 - 천안월봉중학교 졸업 (2018.03. ~ 2021.02.)
@@ -54,3 +49,8 @@ And I go to **Korea Digital Media High School.**<br><br>
 - (2020.09.) ITQ 한글엑셀 A등급
 - (2021.07.) ITQ 한글파워포인트 A등급
 - (2021.12.) 리눅스마스터 2급
+
+## Archiving & Contact me
+- GitHub : https://github.com/m1n5eo
+- Tistory : https://m1n5eo.tistory.com/
+- Instagram : https://www.instagram.com/m1n5eo/
